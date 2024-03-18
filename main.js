@@ -1,4 +1,5 @@
 /*Theme Scripts */
+document.addEventListener('contextmenu', event => event.preventDefault());
 
 (function($){ "use strict";
              
